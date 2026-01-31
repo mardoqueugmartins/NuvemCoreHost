@@ -66,6 +66,6 @@ Todo o layout foi projetado previamente no **Figma**, seguindo princípios de:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nuvemcore-host.git
+git clone https://mardoqueugmartins.github.io/NuvemCoreHost
 
 # Abra o index.html no navegador
